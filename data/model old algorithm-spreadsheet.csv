@@ -1,0 +1,17 @@
+"BehaviorSpace results (NetLogo 6.0.1)"
+"model.nlogo"
+"old algorithm"
+"06/27/2017 10:41:31:862 +0300"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"-40","40","-40","40"
+"[run number]","1","1","1","1"
+"preorder-reserved-dispatch-time","30",,,
+"preorder-safe-time","15",,,
+"preorder-dispatch-start-time","60",,,
+"preorder-car-hold-time","120",,,
+"preorder-dispatch-algorithm","""old""",,,
+"preorder-eta-additional-time","10",,,
+"[steps]","3440","3440","3440","3440"
+
+"[initial & final values]","avg-preorders-delay","avg-preorders-advance","preorders-delays-share","busy-time-share"
+,"14.386120996441282","18.286905345757724","20.94670145359672","47.3953227124183"
